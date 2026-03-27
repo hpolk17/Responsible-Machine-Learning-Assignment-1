@@ -2,7 +2,7 @@
 
 ## 1. Purpose of the Analysis
 
-This project uses the Lecture ! R machine learning workflow into
+This project uses the Lecture 1 R machine learning workflow into
 Python using the COMPAS recidivism dataset frm class. The goal is to
 recreate the same process, including data cleaning,
 exploratory analysis, logistic regression modeling, and evaluation.
